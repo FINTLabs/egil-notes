@@ -1,5 +1,3 @@
-server:
-  port: 8200
 logging:
   level:
     no.fintlabs: debug
